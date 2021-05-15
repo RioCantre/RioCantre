@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @RioCantre. You can call me Rio!
+- 👀 I'm interested in Coding.
 - 🌱 I’m currently learning technologies of HTML, CSS, Javascript and Python.
 - 💞️ I’m looking to collaborate on project in the field I'm currently studying and possible intership to widen my experience.
 - 📫 How to reach me ... Through [Twitter](@CantreRio) and [LinkedIn](https://www.linkedin.com/in/rio-cantre-laure/)
