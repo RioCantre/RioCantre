@@ -9,7 +9,7 @@ app.post( '/life' , (req, res) => {
       instagram : Riolettenotes,
       email : riol.cantre@gmail.com,
       medium: @Riolcantre,
-      dev: riocantre,
+      dev: @riocantre,
       interest : coding     
     }
     res.send(postData);
